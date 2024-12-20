@@ -116,9 +116,10 @@ Through visualizations, the dashboard highlights key metrics like total videos, 
 
 ### Correlation Analysis  
 ![image](https://github.com/user-attachments/assets/39ea4da9-9fe5-4cfa-b323-ca2c282466f4)
-![image](https://github.com/user-attachments/assets/e4384804-bda2-4d98-9a46-c28b22ae3032)
 
 ### Full Dashboard 
+![1](https://github.com/user-attachments/assets/d79a9d26-23ff-4623-9d20-c3f9c3c1bb50)
+![2](https://github.com/user-attachments/assets/25cf7b43-f360-4979-8f93-845127c5272c)
 
 ---
 
