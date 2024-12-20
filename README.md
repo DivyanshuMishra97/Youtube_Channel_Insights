@@ -42,11 +42,11 @@ Through visualizations, the dashboard highlights key metrics like total videos, 
 ## Insights
 
 ### [1] Channel Overview  
-- **Total Videos**: 86  
+- **Total Videos**: 86 (Regular: 36 | Shorts: 50)   
 - **Total Views**: 5,85,587 (Regular: 3,69,333 | Shorts: 2,16,254)  
-- **Total Likes**: 28,680  
-- **Total Dislikes**: 302  
-- **Total Comments**: 1,798  
+- **Total Likes**: 28,680 (Regular: 16877 | Shorts: 11803)  
+- **Total Dislikes**: 302 (Regular: 131 | Shorts: 171)  
+- **Total Comments**: 1,798 (Regular: 1350 | Shorts: 448)  
 
 - **Insight**: A balanced mix of regular videos and shorts contributes to total engagement.  
 
