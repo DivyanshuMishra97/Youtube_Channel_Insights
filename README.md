@@ -145,6 +145,5 @@ Through visualizations, the dashboard highlights key metrics like total videos, 
 
 - **Author**: Divyanshu Mishra  
 - **Email**: [divyanshu.mishra@utdallas.edu](mailto:divyanshu.mishra@utdallas.edu)  
-- **GitHub**: [Divyanshu Mishra](https://github.com/DivyanshuMishra97)  
 
 ---
