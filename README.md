@@ -27,7 +27,7 @@ Through visualizations, the dashboard highlights key metrics like total videos, 
   - **KPIs**: Total videos, views, likes, dislikes, and comments.  
   - **Comparisons**: Performance of shorts vs. regular videos across views, likes, comments, and engagement rate.  
   - **Correlation Analysis**: Logarithmic chart displaying the relationship between video length and views for regular videos.  
-  - **Actionable Insights**: Identified least-performing videos and those with no tags.  
+  - **Tooltips**: Enhanced user experience with interactive tooltips that display detailed insights about video type, title, length, and engagement.  
 
 ### Step 4: Dashboard Optimization  
 - Enhanced the visual appeal by incorporating intuitive charts and a clear layout.  
@@ -43,12 +43,15 @@ Through visualizations, the dashboard highlights key metrics like total videos, 
 
 ### [1] Channel Overview  
 - **Total Videos**: 86  
-- **Total Views**: 5,85,587  
+- **Total Views**: 5,85,587 (Regular: 3,69,333 | Shorts: 2,16,254)  
 - **Total Likes**: 28,680  
 - **Total Dislikes**: 302  
 - **Total Comments**: 1,798  
 
 - **Insight**: A balanced mix of regular videos and shorts contributes to total engagement.  
+
+**Tooltip Screenshot**:  
+![image](https://github.com/user-attachments/assets/bba1bbff-8a8e-42f7-862d-2818c88563ce)
 
 ---
 
@@ -58,6 +61,10 @@ Through visualizations, the dashboard highlights key metrics like total videos, 
 - **Likes**: Regular videos receive higher average likes compared to shorts.  
 - **Engagement**: Shorts have a higher average engagement rate despite lower views.  
 
+**Tooltips**: Added insights into each bar for detailed view type and metrics.  
+![image](https://github.com/user-attachments/assets/c988394e-1866-4d76-8b1a-c659ee74cfc1)
+![image](https://github.com/user-attachments/assets/5db271c1-450b-4c19-846a-eb5981726774)
+
 - **Insight**: Shorts provide better engagement rates but require improved reach strategies.  
 
 ---
@@ -66,11 +73,27 @@ Through visualizations, the dashboard highlights key metrics like total videos, 
 
 - **Observation**: A logarithmic relationship exists between the length of regular videos and views. Videos between 8–10 minutes achieve optimal view counts.  
 
+**Tooltip Screenshot**:  
+![image](https://github.com/user-attachments/assets/3d99f913-9777-4556-b997-db8defafb56b)
+
 - **Insight**: Content length should be optimized to align with audience preferences.  
 
 ---
 
-### [4] Immediate Action Required  
+### [4] Popularity vs Engagement  
+
+- **Popularity**: A video's popularity is measured by the **average views/likes/comments per video**, calculated by dividing the total likes by the number of videos. This reflects how well the videos perform overall.  
+
+- **Engagement**: Engagement measures **likes/comments per view**, computed by dividing total likes or comments by total views. This shows how likely viewers are to interact with a video after watching it.  
+
+**Tooltip Screenshot**:  
+![image](https://github.com/user-attachments/assets/20d7019c-f47e-432e-9eeb-6ba666c967c6)
+
+- **In short**: Popularity indicates overall likability, while engagement reflects viewer interaction per view.  
+
+---
+
+### [5] Immediate Action Required  
 
 - **Videos with No Tags**:  
   - Certain videos lack tags, limiting discoverability.  
@@ -96,7 +119,6 @@ Through visualizations, the dashboard highlights key metrics like total videos, 
 ![image](https://github.com/user-attachments/assets/e4384804-bda2-4d98-9a46-c28b22ae3032)
 
 ### Full Dashboard 
-
 
 ---
 
@@ -125,5 +147,3 @@ Through visualizations, the dashboard highlights key metrics like total videos, 
 - **GitHub**: [Divyanshu Mishra](https://github.com/DivyanshuMishra97)  
 
 ---
-
-Feel free to adjust this as per your needs! Replace `upload_link_here` with actual links to your images or screenshots.
