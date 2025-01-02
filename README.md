@@ -1,5 +1,9 @@
 # 📊 YouTube Channel Performance Dashboard
 
+## Dashboard
+
+Check out the dashboard here: [Dashboard Link](https://public.tableau.com/app/profile/divyanshu.mishra6295/viz/YoutubeChannelsInsights/ChannelsPerformance?publish=yes)
+
 ## Problem Statement
 
 This dashboard provides valuable insights into the performance of a YouTube channel by analyzing data across multiple dimensions. It identifies trends in views, likes, comments, and engagement for both regular videos and shorts. By comparing performance metrics, it helps content creators optimize their strategy to increase overall engagement and audience retention.
