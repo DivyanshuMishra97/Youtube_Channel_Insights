@@ -13,13 +13,12 @@ Through visualizations, the dashboard highlights key metrics like total videos, 
 ---
 
 ## Steps Followed
-
+(ETL)   
 ### Step 1: Data Collection and Import  
 - Imported the channel's performance data to a CSV file.  
 - Ensured the dataset included key metrics such as video type, views, likes, dislikes, comments, and video length.
 
-### Step 2: Data Preprocessing (ETL)  
-- **Extract**: Loaded the raw data into Python using Pandas.  
+### Step 2: Data Preprocessing 
 - **Transform**:  
   - Cleaned and validated the data (removed duplicates, handled missing values).  
   - Categorized video types into "Regular Videos" and "Shorts."  
